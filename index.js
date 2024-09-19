@@ -74,7 +74,7 @@ function countVowels(str) {
   return [...str].filter((char) => vowels.includes(char)).length;
 }
 
-const string = "Saifuddin Al Mahmud";
+const string = "Parvej Ahmed";
 console.log(countVowels(string));
 
 // 8) Write a function named findAverage that takes an array of
