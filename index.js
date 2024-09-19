@@ -61,7 +61,7 @@ function countVowels(str) {
   return vowelMatches ? vowelMatches.length : 0;
 }
 
-const inputString = "Saifuddin Al Mahmud";
+const inputString = "parvej Ahmed";
 const result = countVowels(inputString);
 
 console.log(`Number of vowels in (${inputString}) : ${result}`);
